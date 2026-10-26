@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ok.txt
+errors.txt
+.venv/
+.idea/
+.vscode/
